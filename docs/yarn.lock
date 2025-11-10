@@ -6347,6 +6347,13 @@ min-document@^2.19.0:
   dependencies:
     dom-walk "^0.1.0"
 
+min-document@^2.19.1:
+  version "2.19.1"
+  resolved "https://registry.yarnpkg.com/min-document/-/min-document-2.19.1.tgz#7083ad4bc8879a6eba6516688e9f5d91d32e2d23"
+  integrity sha512-8lqe85PkqQJzIcs2iD7xW/WSxcncC3/DPVbTOafKNJDIMXwGfwXS350mH4SJslomntN2iYtFBuC0yNO3CEap6g==
+  dependencies:
+    dom-walk "^0.1.0"
+
 mini-css-extract-plugin@0.6.0:
   version "0.6.0"
   resolved "https://registry.yarnpkg.com/mini-css-extract-plugin/-/mini-css-extract-plugin-0.6.0.tgz#a3f13372d6fcde912f3ee4cd039665704801e3b9"
